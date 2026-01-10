@@ -1,0 +1,13 @@
+feature,mean_abs_shap
+days_since_last_active,4.219659607541985
+sessions_per_day,0.3915437614415444
+total_sessions,0.31267581041749165
+sessions_prev_7d,0.2719433737301367
+active_days_ratio,0.1655499528463481
+feature_entropy,0.1282843746707561
+sessions_last_7d,0.12562685217600048
+daily_activity_std,0.11709987523183267
+active_days,0.11471712656855584
+session_trend_ratio,0.08166484838162669
+avg_session_duration,0.06449672967370948
+unique_features_used,1.899918752642222e-06
