@@ -276,3 +276,16 @@ DecisionPulse exposes all functionality through a **FastAPI** service, enabling 
   "primary_reason": "days_since_last_active"
 }
 ```
+## 🚀 Why This Project Matters
+
+DecisionPulse demonstrates how machine learning systems should be built in real-world environments — not as isolated models, but as decision-support tools.
+
+The project emphasizes:
+- Thoughtful problem framing
+- Behavior-driven feature engineering
+- Explainable and trustworthy predictions
+- Actionable outputs that align with business goals
+- Clean separation between data, models, and serving layers
+
+This mirrors how applied data science is practiced in modern SaaS, fintech, and consumer technology teams.
+
